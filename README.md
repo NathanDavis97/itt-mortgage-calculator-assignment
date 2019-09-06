@@ -11,7 +11,7 @@ Included in this repository is a shell project that will help you get started if
 
 ## Amortized interest equation 
 
-Please use this equation to calculate your interest: 
+Please use this equation to calculate your monthly payment and total balance: 
 
 ```
 /**
