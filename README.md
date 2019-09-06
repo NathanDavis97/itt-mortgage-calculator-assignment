@@ -7,7 +7,7 @@ This goal of this project is to provide a quick implementation of a mortgage cal
 https://interview-example.herokuapp.com/
 
 ## Shell Project
-Included in this repository is a shell project that will help you get started if you're stuck. 
+Included in this repository is a shell project that will help you get started if you're stuck. Just open "index.html" in your browser to get going! Please ask us any questions that come to mind. 
 
 ## Amortized interest equation 
 
